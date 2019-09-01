@@ -1,0 +1,12 @@
+<resources>
+
+    <style name="BaseTheme.V19" parent="BaseTheme">
+        <item name="android:windowTranslucentStatus">true</item>
+        <item name="android:windowTranslucentNavigation">true</item>
+    </style>
+
+    <style name="AppTheme" parent="BaseTheme.V19" />
+
+    <style name="AppTheme.LeanBack" parent="BaseTheme.V19"/>
+
+</resources>

@@ -1,0 +1,12 @@
+<resources>
+
+    <style name="BaseTheme.V21" parent="BaseTheme">
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+    </style>
+
+    <style name="AppTheme" parent="BaseTheme.V21"/>
+
+    <style name="AppTheme.LeanBack" parent="BaseTheme.V21"/>
+
+</resources>

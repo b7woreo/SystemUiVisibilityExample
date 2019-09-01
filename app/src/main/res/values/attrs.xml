@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="leftWindowsInsetsDrawable" format="reference"/>
+    <attr name="rightWindowsInsetsDrawable" format="reference"/>
+    <attr name="topWindowsInsetsDrawable" format="reference"/>
+    <attr name="bottomWindowsInsetsDrawable" format="reference"/>
+
+    <declare-styleable name="DrawWindowsInsetsLayout">
+        <attr name="leftWindowsInsetsDrawable" />
+        <attr name="rightWindowsInsetsDrawable" />
+        <attr name="topWindowsInsetsDrawable" />
+        <attr name="bottomWindowsInsetsDrawable" />
+    </declare-styleable>
+</resources>
